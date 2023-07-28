@@ -24,7 +24,7 @@ In S/4 HANA Cloud Private Edition, there are Released APIs and Classic ABAP, whe
 
 Then we have,
 
-![public cloud](./img/wehave2.drawio.svg)
+![public cloud](./img/wehave3.drawio.svg)
 
 <!--
 Previously my understanding was,
