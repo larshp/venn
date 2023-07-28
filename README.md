@@ -24,3 +24,5 @@ Previously my understanding was,
 But actually its more like
 
 ![Foo](./img/foo2.drawio.svg)
+
+Not taking specific releases into account
